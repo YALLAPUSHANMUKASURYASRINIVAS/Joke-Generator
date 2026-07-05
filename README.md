@@ -92,7 +92,7 @@ or run using Live Server.
 **Yallapu Shanmukha Surya Srinivas**
 
 GitHub:
-https://github.com/yourusername
+https://github.com/YALLAPUSHANMUKASURYASRINIVAS
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/shanmuka519/
